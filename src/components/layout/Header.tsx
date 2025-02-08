@@ -5,7 +5,7 @@ import { Code2, Menu, X } from 'lucide-react';
 const navigation = [
   { name: 'Home', href: '/' },
   { name: 'Projects', href: '/projects' },
-  // { name: 'Documentation', href: '/docs' },
+  { name: 'Documentation', href: '/docs' },
   { name: 'Community', href: '/community' },
   { name: 'About', href: '/about' },
 ];
