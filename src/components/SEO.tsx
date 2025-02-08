@@ -55,7 +55,7 @@ export default function SEO({
           "@type": "Organization",
           "name": "Poornima Nexus",
           "url": "https://poornimanexus.org",
-          "logo": "https://poornimanexus.org/logo.png",
+          "logo": "https://poornima-nexus-poornima-college-of-engineering.vercel.app/logo.png",
           "sameAs": [
             "https://github.com/aayushsh2003",
             "https://linkedin.com/company/poornima-nexus",

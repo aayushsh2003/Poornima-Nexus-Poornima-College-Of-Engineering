@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://poornimanexus.org/sitemap.xml
+Sitemap: https://poornima-nexus-poornima-college-of-engineering.vercel.app/sitemap.xml
