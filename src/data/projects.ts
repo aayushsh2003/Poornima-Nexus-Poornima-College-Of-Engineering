@@ -165,7 +165,7 @@ export const projects: Project[] = [
     id: '9',
     name: 'Handwriting Converter - Transform Digital Text to Handwritten Notes',
     description: 'Developed a web-based application that transforms digital text into authentic handwritten notes, catering to students, educators, and professionals seeking a personal touch in their documents.',
-    thumbnail: 'https://media.licdn.com/dms/image/v2/D562DAQEiUQ1bJDI9ww/profile-treasury-image-shrink_160_160/B56ZWehmCSGUAk-/0/1742121362912?e=1743688800&v=beta&t=2lTcwrROgbTQ_0NihO7B2HS6GCtmNhVRObzhrvVqCj8',
+    thumbnail: 'https://handwriting-converter.vercel.app/converter-preview.png',
     techStack: ['React', 'TailwindCss', 'TypeScript'],
     githubUrl: 'https://github.com/aayushsh2003/Handwriting-Converter',
     demoUrl: 'https://handwriting-converter.vercel.app/',
