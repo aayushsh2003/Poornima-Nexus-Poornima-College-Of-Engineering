@@ -45,9 +45,9 @@ export const teamMembers: TeamMember[] = [
     ],
     socialLinks: {
       github: 'https://github.com/aayushsh2003',
-      linkedin: '#',
-      twitter: '#',
-      instagram: '#'
+      linkedin: 'https://www.linkedin.com/in/aayush-sharma-a44062299/',
+      twitter: 'https://x.com/aayushSh2003',
+      instagram: 'https://www.instagram.com/aayushsh2003/'
     }
   },
   {
@@ -88,9 +88,9 @@ export const teamMembers: TeamMember[] = [
       }
     ],
     socialLinks: {
-      linkedin: '#',
+      linkedin: 'https://www.linkedin.com/in/utkarsh-batham-960247254/',
       twitter: '#',
-      instagram:'#'
+      instagram:'https://www.instagram.com/utkarshkashyap13/'
     }
   },
   {
@@ -131,7 +131,7 @@ export const teamMembers: TeamMember[] = [
       }
     ],
     socialLinks: {
-      linkedin: '#',
+      linkedin: 'https://www.linkedin.com/in/mohitsoni2289/',
       twitter: '#',
       instagram:'#'
     }
@@ -174,7 +174,7 @@ export const teamMembers: TeamMember[] = [
       }
     ],
     socialLinks: {
-      linkedin: '#',
+      linkedin: 'https://www.linkedin.com/in/shivanjali-g-7374b325b/',
       twitter: '#',
       instagram:'#'
     }

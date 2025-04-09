@@ -139,6 +139,16 @@ export default function About() {
                               <Twitter className="h-6 w-6" />
                             </a>
                           )}
+                          {member.socialLinks.instagram && (
+                            <a
+                              href={member.socialLinks.instagram}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="text-white hover:text-primary-200 transition-colors"
+                            >
+                              <Instagram className="h-6 w-6" />
+                            </a>
+                          )}
                         </div>
                       </div>
                     </div>
